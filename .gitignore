@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# C/C++ build files
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+#Search engine executable
+search_engine

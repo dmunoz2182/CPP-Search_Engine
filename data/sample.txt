@@ -1,0 +1,10 @@
+https://example.com/cpp
+C++ is a powerful programming language used for systems programming and performance critical applications.
+https://example.com/python
+Python is a popular programming language used for data science machine learning and automation.
+https://example.com/ai
+Artificial intelligence and machine learning are commonly built using Python and modern software tools.
+https://example.com/web
+Web development uses technologies such as JavaScript React HTML CSS and APIs.
+https://example.com/systems
+Systems programming often uses C and C++ for performance memory control and operating systems.
