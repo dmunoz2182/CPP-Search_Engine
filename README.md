@@ -57,21 +57,6 @@ This retruns pages that include the word python but exclude machine.
 - File I/O
 - STL algorithms 
 
-##### Structure 
-
-SearchEnginePortfolio/
-├── src/
-│   ├── main.cpp
-│   ├── search.cpp
-│   └── search.h
-│
-├── data/
-│   ├── sample.txt
-│   └── stop.txt
-│
-├── README.md
-└── .gitignore
-
 #### Building the Project
 This project requires a C++17-compatible compiler.
 
